@@ -1,17 +1,32 @@
 # project-management-tool
-This is a Next.js project bootstrapped with create-next-app.
-
+This is the frontend of a Project Management Tool, built using Next.js, React, and Tailwind CSS.
 Getting Started
-First, run the development server:
+To set up the project locally, follow these steps:
+
+# Prerequisites
+Node.js (Recommended: v18 or later)
+npm, yarn, or pnpm installed
+
+# Installation
+
+Clone the repository and install dependencies:
+git clone https://github.com/harshithareddy2929/project-management-tool.git
+cd project-management-tool/client
+npm install
+# or
+yarn install
+# or
+pnpm install
+
+#  Run the Development Server
 
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
-Open http://localhost:3000 with your browser to see the result.
+
+The app will be available at: http://localhost:3000
 
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
