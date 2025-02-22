@@ -12,19 +12,20 @@ npm, yarn, or pnpm installed
 Clone the repository and install dependencies:
 git clone https://github.com/harshithareddy2929/project-management-tool.git
 cd project-management-tool/client
-npm install
-# or
-yarn install
-# or
-pnpm install
+
+# npm install
+or
+# yarn install
+or
+# pnpm install
 
 #  Run the Development Server
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+# npm run dev
+or
+# yarn dev
+or
+# pnpm dev
 
 The app will be available at: http://localhost:3000
 
