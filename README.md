@@ -15,17 +15,18 @@ cd project-management-tool/client
 
 ##  npm install
 or
-# yarn install
+## yarn install
 or
-# pnpm install
+## pnpm install
+
 
 #  Run the Development Server
 
-# npm run dev
+## npm run dev
 or
-# yarn dev
+## yarn dev
 or
-# pnpm dev
+## pnpm dev
 
 The app will be available at: http://localhost:3000
 
