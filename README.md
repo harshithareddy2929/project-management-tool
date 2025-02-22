@@ -13,7 +13,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/harshithareddy2929/project-management-tool.git
 cd project-management-tool/client
 
-# npm install
+##  npm install
 or
 # yarn install
 or
